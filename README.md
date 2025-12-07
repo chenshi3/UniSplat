@@ -7,8 +7,7 @@
 
 **UniSplat** is a feed-forward reconstruction framework in autonomous driving scenarios. Unlike traditional methods that require dense, overlapping views and per-scene optimization, UniSplat achieves state-of-the-art performance through a novel unified 3D latent scaffold representation that seamlessly integrates spatial and temporal information.
 
-![Demo](assets/video.mp4)
-
+https://github.com/user-attachments/assets/5356161a-34b0-4478-977c-4107f24e2750
 
 ## Updates
 - [Dec 7, 2025] Demo code and pretrained weights for the Waymo Dataset have been released. Demo for novel view synthesis (rotation and shift) and scene completion will be released soon.
