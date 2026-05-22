@@ -90,7 +90,7 @@ cam2lidar + distortion) for every scene/frame/camera.
 
 Requires the `waymo-open-dataset-tf-2-12-0` package:
 ```
-pip install gcsfs waymo-open-dataset-tf-2-12-0==1.6.4
+pip install waymo-open-dataset-tf-2-12-0==1.6.4
 ```
 
 ### Step 4 — Dynamic mask & track info (Coming soon)
